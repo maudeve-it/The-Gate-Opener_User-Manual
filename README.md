@@ -1,5 +1,12 @@
 # The-Gate-Opener_User-Manual-IT
 
-In questa cartella trovi il manuale utente in lingua italiana.
+In this repository you will find the project User Manual written in italian language.
 
-Questo manuale puo' essere inteso, oltre che naturalmente la guida per utilizzare l'apricancello, anche l'elenco dettagliato delle funzioni sviluppate. 
+You can consider this manual as a detailed features list developed in the project, as well as the complete guide to use the gate opener. 
+
+---
+
+
+In questa repository trovi il Manuale Utente in lingua italiana.
+
+Puoi considerare questo manuale, oltre che la guida completa per usare l'apricancello, anche la lista dettagliata delle funzioni sviluppate nel progetto. 
